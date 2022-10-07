@@ -13,7 +13,7 @@ jobs:
         projectPath:
           - unityproject
         unityVersion:
-          - 2021.3.11f1-1.0.1
+          - 2021.3.11f1
         targetPlatform:
           - StandaloneWindows64 # Build a Windows 64-bit standalone.
 
